@@ -12,6 +12,7 @@ Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'leafgarland/typescript-vim'
 Plug 'neovimhaskell/haskell-vim'
 Plug 'derekwyatt/vim-scala'
+Plug 'pangloss/vim-javascript'
 
 call plug#end()
 
